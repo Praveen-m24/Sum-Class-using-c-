@@ -1,1 +1,1 @@
-# Sum-Class-using-c++
+# Sum-Class
